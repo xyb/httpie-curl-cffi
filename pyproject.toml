@@ -1,6 +1,6 @@
 [project]
 name = "httpie-curl-cffi"
-version = "1.0.0a0"
+version = "1.0.0a1"
 description = "HTTPie plugin for using curl_cffi as transport"
 authors = [
     {name = "Xie Yanbo", email = "xieyanbo@gmail.com"},
