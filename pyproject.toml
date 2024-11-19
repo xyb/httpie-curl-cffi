@@ -14,7 +14,7 @@ readme = "README.md"
 license = {text = "MIT"}
 urls = { "repository" = "https://github.com/xyb/httpie-curl-cffi" }
 classifiers = [
-    "Development Status :: 4 - Beta",
+    "Development Status :: 2 - Pre-Alpha",
     "Environment :: Plugins",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
